@@ -1,0 +1,1 @@
+Nesse projeto irei desenvolver um sistema onde eu posso colocar os horarios dos dias trabalhados, ver quanto eu receberei.  Além disso, o sistema deverá somar extras(e também somar comissão caso tenha!)
